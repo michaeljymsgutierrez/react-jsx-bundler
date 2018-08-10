@@ -1,0 +1,9 @@
+{
+  "name": "react-jsx-bundler",
+  "version": "1.0.0",
+  "description": "A react jsx bundler for non react project integration",
+  "main": "index.js",
+  "repository": "git@github.com:michaeljymsgutierrez/react-jsx-bundler.git",
+  "author": "michaeljymsgutierrrez <leeez711@gmail.com>",
+  "license": "MIT"
+}
