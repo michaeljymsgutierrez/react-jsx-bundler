@@ -1,1 +1,4 @@
+# Ignored files
 node_modules/
+bundle.js
+bundle.css

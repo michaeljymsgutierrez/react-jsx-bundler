@@ -4,16 +4,26 @@
   "description": "A react jsx bundler for non react project integration",
   "main": "index.js",
   "scripts": {
+    "serve": "webpack --mode development --watch",
     "build": "webpack --mode production"
   },
   "repository": "git@github.com:michaeljymsgutierrez/react-jsx-bundler.git",
   "author": "michaeljymsgutierrrez <leeez711@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "autoprefixer": "^9.1.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "cssnano": "^4.0.5",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "lost": "^8.3.0",
+    "node-sass": "^4.9.3",
+    "postcss-loader": "^3.0.0",
+    "rucksack-css": "^1.0.2",
+    "style-loader": "^0.22.1",
     "webpack": "^4.16.5",
     "webpack-cli": "^3.1.0"
   },
