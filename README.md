@@ -1,2 +1,3 @@
-#### React JSX Bundler 
-----
+#### React JSX Bundler
+
+---
